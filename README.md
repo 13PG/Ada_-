@@ -1,2 +1,2 @@
 # Ada_-
-Ada加入惩罚因子
+Adaboost加入惩罚因子
